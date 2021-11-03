@@ -5,3 +5,6 @@
 5. Методы оптимизации: SGD, SGD + Momentum; AdaGrad - почитать.
 6. Затухание learning rate: пошаговое, экспоненциальное, 1/t: a = a0*e^(-kt), a = a0/(1+kt), k & a0 - hyperparams, t - iteration num.
 7. Регуляризация Dropout.
+8. Pooling слои.
+9. Keras: Conv1D, Conv2D, Conv3D, MaxPooling2D, Dropout layer, Dense; Sequential class; SDG;
+10. OpenCV in python: cv2.imread, cv2.resize
